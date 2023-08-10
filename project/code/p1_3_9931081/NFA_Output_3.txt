@@ -1,0 +1,16 @@
+a b
+Q0 Q1 Q2 Q3 Q4 Q5 Q6 Q7 Q8
+Q0
+Q8
+Q6 λ Q7
+Q1 λ Q2
+Q1 λ Q4
+Q2 a Q3
+Q4 b Q5
+Q0 λ Q1
+Q0 λ Q6
+Q3 λ Q6
+Q3 λ Q1
+Q5 λ Q6
+Q5 λ Q1
+Q7 b Q8
